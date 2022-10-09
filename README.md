@@ -2,9 +2,9 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído em sala de aula sendo pedido pelo professor para rodar um projeto da qual altere de forma automática as imagens.
+Projeto construído em sala de aula sendo pedido pelo professor para rodar um projeto da qual altere de forma automática as imagens contendo um temporizador.
 
-[🔗 Clique aqui para acessar](https://bamarcheti.github.io/MeuCurriculo/)
+[🔗 Clique aqui para acessar](https://bamarcheti.github.io/TrocandoImagens/)
 
 
 ## __🛠 Tecnologias__

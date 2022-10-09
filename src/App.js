@@ -9,9 +9,9 @@ function App() {
 
   useEffect(() => {
     setInterval(() => {
-      if (image === logoVermelha){
+      if (image === logoVermelha) {
         setImage(logoBranca)
-      } else{
+      } else {
         setImage(logoVermelha)
       }
     }, 1000)
@@ -27,4 +27,4 @@ function App() {
   )
 }
 
-export default App;
+
