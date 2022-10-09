@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TrocandoImagens/static/css/main.318405ad.css",
+    "main.js": "/TrocandoImagens/static/js/main.c5f2283b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TrocandoImagens/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TrocandoImagens/index.html",
+    "main.318405ad.css.map": "/TrocandoImagens/static/css/main.318405ad.css.map",
+    "main.c5f2283b.js.map": "/TrocandoImagens/static/js/main.c5f2283b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TrocandoImagens/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.318405ad.css",
+    "static/js/main.c5f2283b.js"
+  ]
+}
